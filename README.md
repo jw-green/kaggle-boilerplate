@@ -30,3 +30,19 @@ Boilerplate setup for Kaggle competitions.
 ```
 
 ## Libraries
+
+### PythonHelpers
+
+A collection of utility functions to accelerate the exploration process.
+
+#### Text
+
+Text helpers, usually around the manipulation of text, or converting from `ascii` to `utf-8`.
+
+#### Contractions
+
+#### MachineLearning
+
+##### LDA
+
+##### NLP
